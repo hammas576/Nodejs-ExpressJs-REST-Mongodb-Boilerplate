@@ -12,7 +12,7 @@ An ExpressJs boilerplate configured with ESLint, Prettier & Airbnb Setup. The bo
 
 A basic ExpressJs boilerplate that is configured with ESLint, Prettier following the Airbnb Setup. The system uses RESTful architecture for client server communication, Joi for body validations and MongoDb for data storage. Currently it consists of a single service thus it is of monolithic nature, but can be expanded to n number of services according to the requirements.
 
-### Step 2 - Start the node application
+- Start the node application
 
 To build the service:
 
