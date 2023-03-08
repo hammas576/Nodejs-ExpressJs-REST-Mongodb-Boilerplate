@@ -17,9 +17,6 @@ A basic ExpressJs boilerplate that is configured with ESLint, Prettier following
 To build the service:
 
 - `npm build` creates the production build by executing the docker file and creating the docker image of this service:
-  ```bash
-  $ npm install
-  ```
 
 To get the Node server running locally:
 
